@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<weather>
+    <id>300</id>
+    <main>Drizzle</main>
+    <description>light intensity drizzle</description>
+    <icon>09d</icon>
+</weather>
